@@ -1,0 +1,28 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars": "^0.4.4"
+  },
+  "devDependencies": {
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giorgio-ods/goit-js-hw-10-food-service-21.git"
+  },
+  "author": "Georgiy <g.ego1991.ge@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giorgio-ods/goit-js-hw-10-food-service-21/issues"
+  },
+  "homepage": "https://github.com/giorgio-ods/goit-js-hw-10-food-service-21#readme",
+  "keywords": [],
+  "description": ""
+}
